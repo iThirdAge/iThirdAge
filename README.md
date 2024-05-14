@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iThirdAge
+- 👋 Hi, I’m Harrison
 - 👀 I’m interested in Modern Desktop Management
 - 🌱 I’m currently learning Intune
 - 📫 How to reach me hnvu40@gmail.com
