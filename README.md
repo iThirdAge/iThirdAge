@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Harrison
 - 👀 I’m interested in Modern Desktop Management
 - 🌱 I’m learning Intune and JAMF
-- 📫 How to reach me hnvu40@gmail.com
+- 📫 How to reach me vhn40@outlook.com
